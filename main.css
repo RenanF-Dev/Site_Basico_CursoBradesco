@@ -26,13 +26,6 @@ li{
     list-style: square;
 }
 
-
-
-.light-theme {
-    color: #000000;
-    background-color: #00ff00;
-}
-
 .light-theme {
     --bg: var(--green);
     --fontColor: var(--black);
